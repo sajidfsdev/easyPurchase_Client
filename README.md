@@ -1,1 +1,1 @@
-# easyPurchase_Client
+# EasyPurchase
